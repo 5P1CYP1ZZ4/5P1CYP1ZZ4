@@ -6,6 +6,7 @@ html {
 .header {
     padding: 60px;
     border-bottom: solid 2px rgb(0, 56, 56);
+    width: 100%;
 }
 .header-content {
     text-align: center;
@@ -19,4 +20,5 @@ html {
     background-color: rgb(135, 203, 203);
     color: #000;
     padding: 15px;
+    width: 100%;
 }
